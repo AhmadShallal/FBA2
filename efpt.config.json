@@ -1,0 +1,48 @@
+﻿{
+   "CodeGenerationMode": 0,
+   "ContextClassName": "Database2Context",
+   "ContextNamespace": null,
+   "DefaultDacpacSchema": null,
+   "FilterSchemas": false,
+   "IncludeConnectionString": false,
+   "ModelNamespace": null,
+   "OutputContextPath": "Data",
+   "OutputPath": "Models",
+   "ProjectRootNamespace": "FBA2",
+   "Schemas": null,
+   "SelectedHandlebarsLanguage": 0,
+   "SelectedToBeGenerated": 0,
+   "Tables": [
+      {
+         "Name": "[dbo].[appointments]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[contacts]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[notes]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[tasks]",
+         "ObjectType": 0
+      }
+   ],
+   "UiHint": "C:\\Users\\shall\\source\\repos\\FBA2\\Database2\\Database2.sqlproj",
+   "UseBoolPropertiesWithoutDefaultSql": false,
+   "UseDatabaseNames": false,
+   "UseDbContextSplitting": false,
+   "UseFluentApiOnly": false,
+   "UseHandleBars": false,
+   "UseInflector": false,
+   "UseLegacyPluralizer": false,
+   "UseNoConstructor": false,
+   "UseNoNavigations": false,
+   "UseNoObjectFilter": false,
+   "UseNodaTime": false,
+   "UseNullableReferences": false,
+   "UseSchemaFolders": false,
+   "UseSpatial": false
+}
